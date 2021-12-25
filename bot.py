@@ -9,7 +9,7 @@ web3 = Web3(Web3.HTTPProvider(bsc))
 print(web3.isConnected())
 
 token = '0x10ed43c718714eb63d5aa57b78b54704e256024e'
-privateKey = 'batata'
+privateKey = ''
 send = ''
 
 #pancakeswap router
